@@ -9,6 +9,10 @@ body {
 	border-radius: 50%;
 }
 
+h1 {
+	font-weight: 100;
+}
+
 #container {
 	display: flex;
 	align-items: center;
